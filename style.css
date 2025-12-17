@@ -1,0 +1,37 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+}
+header {
+background: #0b3c5d;
+color: white;
+padding: 15px;
+display: flex;
+justify-content: space-between;
+}
+nav a {
+color: white;
+margin: 0 10px;
+text-decoration: none;
+}
+.hero {
+padding: 60px;
+text-align: center;
+background: #e8f1f8;
+}
+.services {
+display: flex;
+justify-content: space-around;
+padding: 40px;
+}
+.card {
+border: 1px solid #ccc;
+padding: 20px;
+width: 25%;
+}
+footer {
+background: #0b3c5d;
+color: white;
+text-align: center;
+padding: 50px;
+}
